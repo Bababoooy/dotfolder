@@ -1,0 +1,16 @@
+--kitty /home/eidros/Pictures/arch.png
+--logo-width 36
+--structure Title:Separator:OS:Host:Kernel:Uptime:Battery:Break:Packages:Shell:Resolution:Terminal:Break:CPU:GPU:Memory:Break:Colors
+--host-format "{/2}{-}{/}{2}{?3} {3}{?}"
+--battery-format "{/4}{-}{/}{4}%{?5} [{5}]{?}"
+--gpu-key "󰍛   "
+--os-key "  "
+--host-key "󰌢  "
+--kernel-key "  "
+--uptime-key "󱑒  "
+--battery-key "  "
+--packages-key "  "
+--shell-key "  "
+--terminal-key ""
+--cpu-key "󰻠   "
+--memory-key "  "
